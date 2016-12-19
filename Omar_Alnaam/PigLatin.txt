@@ -1,0 +1,34 @@
+Enterway amenay ofway ethay eatherway ationstay :
+Enterway ethay izesay umbernay ofway ethay istoryhay easurementmay:
+Invalidway alue..Entervay izesay umbernay atergray 0 orway esslay anthay 10000000 :
+Electsay andway enterway oneway umbernay omfray ethay ollowingfay it(hay: exway 1) :
+1-Inputway away ompletecay eatherway eading:temperatureray, indway eedspay, andway indway irectionday.
+2- intpray ethay urrentcay eatherway.
+3- intpray ethay eatherway istoryhay.
+4- Eturnray otay ainmay enumay.
+Enterway emperaturetay inway egreesday ahrenheit(hint:anfay intgerway etweenbay -150 otay +244):
+Invalidway alue....Entervay egreesday ahrenheitfay etweenbay -150 otay +244 ... :
+Ethay emperaturetay isway :
+Ahrenheitfay
+Enterway indway eedspay int(hay: anway intgerway ositivepay umbernay otnay atergray anthay 253 mphay :
+Invalidway alue...Entervay ositivepay umbernay otnay atergray anthay 253 mphay :
+Enterway indway irection(day inthay: oneway orway otway apitalcay etterlay exway :Enay,Nay:
+Invalidway alue..Entervay oneway orway otway apitalcay etterlay exway: Enay,Nay:
+Ethay indway eedspay andway irectionday :
+Mphay
+Errorway: emorymay ouldcay otnay ebay allocatedway
+Orry...Yousay avehay otnay enteredway anyway informationway yetway.
+Ethay
+Eatherway ationstay
+Easurementmay
+Easeplay enterway :1,2,3 orway 4
+Invalidway alue
+Electsay andway enterway oneway umbernay omfray ethay ollowingfay it(hay: exway 1) :
+1-atecray eatherway ationstay.
+2-Anagemay eatherway ationstay.
+3-Intpray outway urrentcay eatherway orfay allway eatherway ationstay.
+4- exitway ethay ogrampray.
+An'tcay indfay atthay ationstay.
+Isthay ationstay alreadyway existsway.
+Enterway amenay ofway ethay eatherway ationstay otay anagemay:
+Inway

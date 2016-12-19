@@ -1,0 +1,34 @@
+Enter Name of the weather station:
+Enter the size number of the history measurement:
+invalid value..Enter size number grater 0 or less than 10000000 :
+Select and enter one number from the following (hit: Ex 1) : 
+1-Input a complete weather reading:temperature, wind speed, and wind direction.
+2- Print the current weather.
+3- Print the weather history.
+4- return to main menu
+Enter temperature in degrees Fahrenheit(hint:an intger between -150 to +244):
+invalid value....Enter degrees Fahrenheit between -150 to +244 ...  :
+The temperature is :
+Fahrenheit
+Enter Wind speed (hint: an intger positive number not grater than 253 MPH) :
+invalid value...Enter positive number not grater than 253 MPH :  
+Enter Wind direction( hint:  one or two capital letter Ex : N,NE):
+invalid value..Enter one or two capital letter Ex: N,NE:
+The wind speed and direction :
+MPH
+Error: memory could not be allocated
+Sorry...You have not entered any information yet
+The
+Weather Station
+Measurement
+Please enter :1,2,3 or 4
+invalid value
+Select and enter one number from the following (hit: Ex 1) : 
+1-Create weather station.
+2- Manage weather station.
+3-Print out current weather for all weather station.
+4- Exit the program. 
+can't find that station
+this station already exists
+Enter Name of the weather station to manage:
+in
